@@ -1,3 +1,3 @@
 # newproje
 
-test puul
+test pull my project
